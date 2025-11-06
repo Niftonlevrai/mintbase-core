@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 **[Click here for Docs](https://mintbase-core-docs.netlify.app/mintbase_deps/)**
 ****
 
